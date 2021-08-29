@@ -1,2 +1,2 @@
 # Social-Network-and-phonebook
-This is the code of social network which is programmed in asp. This is only for educational purpose and strictly a copyright. Anyone copying will be 
+I lost the code for this project. I am trying to find it. As I did this as a college project for a competition. I will upload it when I find it. Hope it will be soon.
